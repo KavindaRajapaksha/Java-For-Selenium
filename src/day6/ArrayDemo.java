@@ -24,7 +24,7 @@ public class ArrayDemo {
           int n=a[0].length;
         for (int i=0;i<a.length;i++) {
             for (int j=0;j<n;j++) {
-                System.out.println(a[i][j]);
+                System.out.println(a[i][j]+"  ");
             }
         }
 
