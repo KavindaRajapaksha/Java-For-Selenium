@@ -1,5 +1,5 @@
 package day7;
-import java.util.Arrays;
+
 public class SortedArray {
     public static void main(String[] args) {
         int arr[] = {10, 332, 11, 3, 32, 465, 89, 33};
